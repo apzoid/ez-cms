@@ -1,1 +1,2 @@
-console.log("Hello World!");
+import { EzCMS } from './app/EzCMS';
+EzCMS.app();
